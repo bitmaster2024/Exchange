@@ -12,7 +12,29 @@
 • 后台功能：支持插针、提币金额限制、空投加密货币、支持对接telegram、代理商等功能
 • 更多功能，持续开发中（支持定制化开发）
 
+首页展示
 ![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project1.png)
+
+交易展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project2.png)
+
+SWAP展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project3.png)
+
+Market cap等区块链功能展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project4.png)
+
+质押展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project5.png)
+
+跟单展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project6.png)
+
+交易策略展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project7.png)
+
+信用卡购买加密货币展示
+![image](https://github.com/bitmaster2024/Exchange/blob/main/img/project8.png)
 
 ## 测试环境
 
